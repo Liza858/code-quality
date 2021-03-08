@@ -1,0 +1,5 @@
+setuptools==47.3.1
+flake8==3.8.3
+cohesion
+radon
+wemake-python-styleguide
